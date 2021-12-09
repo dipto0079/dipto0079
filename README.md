@@ -13,8 +13,8 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
 
-- 🔭 I’m currently working on Go
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on Backend Web Development with (PHP & GoLang)
+- 🌱 I’m currently learning Javascript, jQuery & Ajax
 - 👯 I’m looking to collaborate on Fullstack Web Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 
