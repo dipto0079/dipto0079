@@ -97,3 +97,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dipto0079)  
 
+![Profile views](https://gpvc.arturio.dev/dipto0079)  
+
