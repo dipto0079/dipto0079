@@ -1,4 +1,5 @@
 ## Hey  There I'm Sudipto Biswas
+![Profile views](https://gpvc.arturio.dev/dipto0079)  
 <p align="left">
   <a href="https://www.linkedin.com/developer-sudipto"><img alt="Linkedin" title="Sudipto Biswas Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/dipto0079"><img alt="Github" title="Sudipto Biswas Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -97,5 +98,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dipto0079)  
 
-![Profile views](https://gpvc.arturio.dev/dipto0079)  
+
 
