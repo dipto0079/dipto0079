@@ -9,7 +9,11 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 </p> 
 <hr/>
-<h4 align="left">I am a Programmer,Backend Web Developer from Khulna, Bangladesh. I love to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="left">Hello, I'm Sudipto, a software developer with a passion for building innovative and efficient solutions. With over 2.5 years of experience in the industry, I have worked on a variety of projects ranging from web applications to mobile apps.
+
+My expertise lies in [Go (Programming Language),gRPC,Object-Oriented Programming (OOP),Model-View-Controller (MVC),REST APIs,PostgreSQL,Linux,GitHub,JavaScript,PHP], and I enjoy working with [insert any specific technologies or frameworks you prefer]. I am always looking to expand my skill set and stay up-to-date with the latest technologies and industry trends.
+
+In addition to my technical skills, I am also a strong communicator and collaborator. I believe that open communication and teamwork are essential for delivering successful projects. I am always willing to share my knowledge and expertise with my colleagues and learn from them as well.</h4>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
