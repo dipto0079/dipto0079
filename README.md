@@ -11,7 +11,7 @@
 <hr/>
 <h4 align="left">Hello, I'm Sudipto, a software developer with a passion for building innovative and efficient solutions. With over 2.5 years of experience in the industry, I have worked on a variety of projects ranging from web applications to mobile apps.
 
-My expertise lies in [Go (Programming Language),gRPC,Object-Oriented Programming (OOP),Model-View-Controller (MVC),REST APIs,PostgreSQL,Linux,GitHub,JavaScript,PHP], and I enjoy working with [insert any specific technologies or frameworks you prefer]. I am always looking to expand my skill set and stay up-to-date with the latest technologies and industry trends.
+My expertise lies in [Go (Programming Language),gRPC,Object-Oriented Programming (OOP),Model-View-Controller (MVC),REST APIs,PostgreSQL,Linux,GitHub,JavaScript,PHP], and I enjoy working with [go]. I am always looking to expand my skill set and stay up-to-date with the latest technologies and industry trends.
 
 In addition to my technical skills, I am also a strong communicator and collaborator. I believe that open communication and teamwork are essential for delivering successful projects. I am always willing to share my knowledge and expertise with my colleagues and learn from them as well.</h4>
 
