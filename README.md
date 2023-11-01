@@ -18,7 +18,7 @@ My expertise lies in [Go (Programming Language),gRPC,Object-Oriented Programming
 
 In addition to my technical skills, I am also a strong communicator and collaborator. I believe that open communication and teamwork are essential for delivering successful projects. I am always willing to share my knowledge and expertise with my colleagues and learn from them as well.</h4>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+  <img align="right" alt="GIF" src="assets/programmer.gif" width="450" height="300" />
 
 
 - 🔭 I’m currently working on Backend Web Development with (PHP & GoLang)
