@@ -1,5 +1,4 @@
-## Hey  There I'm Sudipto Biswas
-![Profile views](https://gpvc.arturio.dev/dipto0079)  
+## Hey  There I'm Sudipto Biswas 
 <p align="left">
   <a href="https://www.linkedin.com/developer-sudipto"><img alt="Linkedin" title="Sudipto Biswas Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/dipto0079"><img alt="Github" title="Sudipto Biswas Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -9,7 +8,7 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 </p> 
 <hr/>
-<h4 align="left">Hello, I'm Sudipto, a software developer with a passion for building innovative and efficient solutions. With over 2.5 years of experience in the industry, I have worked on a variety of projects ranging from web applications to mobile apps.
+<h4 align="left">Hello, I'm Sudipto, a software developer with a passion for building innovative and efficient solutions. With over 3.5 years of experience in the industry, I have worked on a variety of projects ranging from web applications to mobile apps.
 
 My expertise lies in [Go (Programming Language),gRPC,Object-Oriented Programming (OOP),Model-View-Controller (MVC),REST APIs,PostgreSQL,Linux,GitHub,JavaScript,PHP], and I enjoy working with [go]. I am always looking to expand my skill set and stay up-to-date with the latest technologies and industry trends.
 
@@ -94,13 +93,26 @@ In addition to my technical skills, I am also a strong communicator and collabor
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dipto0079)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0079)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipto0079&show_icons=true)
+<p align="center">
+  <a href="https://github.com/dipto0079">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto0079&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dipto0079)  
+<p align="center">
+  <a href="https://github.com/dipto0079">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipto0079&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dipto0079)  
+<a> 
+    <a href="https://github.com/dipto0079"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dipto0079&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/dipto0079"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dipto0079&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
+
+![Al Sudipto Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipto0079&custom_title=Al%20Sudipto%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
