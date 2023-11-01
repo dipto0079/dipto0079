@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=dipto0079">
+  <img align="right" src="https://komarev.com/ghpvc/?username=dipto0079&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 ## Hey  There I'm Sudipto Biswas 
 <p align="left">
   <a href="https://www.linkedin.com/developer-sudipto"><img alt="Linkedin" title="Sudipto Biswas Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -94,9 +98,9 @@ In addition to my technical skills, I am also a strong communicator and collabor
 [![trophy](https://github-profile-trophy.vercel.app/?username=dipto0079)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">
+<p align="center" style="background">
   <a href="https://github.com/dipto0079">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto0079&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto0079&theme=radical&border=7F3FBF&background=0D1117" alt="Sudipto GitHub streak"/>
   </a>
 </p>
 
@@ -113,6 +117,6 @@ In addition to my technical skills, I am also a strong communicator and collabor
 </a>
 
 
-![Al Sudipto Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipto0079&custom_title=Al%20Sudipto%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al Sudipto Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipto0079&custom_title=%20Sudipto%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
