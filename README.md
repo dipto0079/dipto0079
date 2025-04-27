@@ -29,3 +29,5 @@
 ![Al Sudipto Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipto0079&custom_title=%20Sudipto%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
+
+[![wakatime](https://wakatime.com/badge/user/018b8acc-db62-41d3-ad06-8bf91c5c7fb8.svg)](https://wakatime.com/@018b8acc-db62-41d3-ad06-8bf91c5c7fb8)
