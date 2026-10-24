@@ -45,8 +45,7 @@ I specialize in Go, building high-performance backend services, distributed syst
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto0079&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
-<!-- Phase 3: Snake. Currently commented out because the output branch doesn't exist yet.
-     After the snake Action runs green, delete this comment wrapper (the opening and closing markers).
+<!-- Phase 3: Snake -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipto0079/dipto0079/output/github-snake-dark.svg" />
@@ -54,7 +53,6 @@ I specialize in Go, building high-performance backend services, distributed syst
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/dipto0079/dipto0079/output/github-snake.svg" />
 </picture>
 </div>
--->
 
 <!-- Phase 4: Badges -->
 ## 📫 Get in touch
